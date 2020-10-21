@@ -1,0 +1,20 @@
+{
+  "name": "discord-grabber-poc",
+  "version": "1.0.0",
+  "description": "discord token and userinfo grabber",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duxeyo/discord-grabber-poc.git"
+  },
+  "author": "",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/duxeyo/discord-grabber-poc/issues"
+  },
+  "homepage": "https://github.com/duxeyo/discord-grabber-poc#readme",
+  "dependencies": {
+    "uuid": "^8.3.1",
+    "ws": "^7.3.1"
+  }
+}
