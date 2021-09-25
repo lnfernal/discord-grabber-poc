@@ -1,5 +1,5 @@
 # discord-grabber-poc
-> discord token and userinfo grabber PATCHED
+PATCHED
 
 Proof of concept of grabbing discord user information and session tokens by abusing the overlay IPC socket.
 
